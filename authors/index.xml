@@ -1,22 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Nicole Mitchell</title>
+    <title>Authors | Nicole Mitchell</title>
     <link>https://nicolemitchell.github.io/authors/</link>
-    <description>Recent content in Authors on Nicole Mitchell</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+      <atom:link href="https://nicolemitchell.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nicolemitchell.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://nicolemitchell.github.io/authors/</link>
+    </image>
     
-	<atom:link href="https://nicolemitchell.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eleni Litsa</title>
+      <link>https://nicolemitchell.github.io/authors/eleni-litsa/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/eleni-litsa/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Lydia E Kavraki</title>
+      <link>https://nicolemitchell.github.io/authors/lydia-e-kavraki/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/lydia-e-kavraki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole Mitchell</title>
+      <link>https://nicolemitchell.github.io/authors/nicole-mitchell/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/nicole-mitchell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Didier Devaurs</title>
+      <link>https://nicolemitchell.github.io/authors/didier-devaurs/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/didier-devaurs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dinler A Antunes</title>
+      <link>https://nicolemitchell.github.io/authors/dinler-a-antunes/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/dinler-a-antunes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gregory Lizée</title>
+      <link>https://nicolemitchell.github.io/authors/gregory-lizee/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/gregory-lizee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Moll</title>
+      <link>https://nicolemitchell.github.io/authors/mark-moll/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/mark-moll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Hall-Swan</title>
+      <link>https://nicolemitchell.github.io/authors/sarah-hall-swan/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/sarah-hall-swan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucy Fox</title>
+      <link>https://nicolemitchell.github.io/authors/lucy-fox/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/lucy-fox/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
       <link>https://nicolemitchell.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://nicolemitchell.github.io/authors/admin/</guid>
-      <description></description>
+      <description>&lt;p&gt;Nicole Mitchell is a master&amp;rsquo;s student in computer science at Rice University, advised by Dr. Lydia Kavraki. Her current research in chemoinformatics applies graph theory, network science and machine learning techniques to model drugs and predict their metabolism, which will help inform the safety and efficacy of medicines. She is broadly interested in developing methods of learning on structured data for biomedical applications. Given the senitive context of health, she is also passionate about ensuring these models have provable guarantees that support interpretability and fairness. She will be graduating with an MS in May 2020, and is currently exploring opportunities for what to do next!&lt;/p&gt;
+</description>
     </item>
     
   </channel>

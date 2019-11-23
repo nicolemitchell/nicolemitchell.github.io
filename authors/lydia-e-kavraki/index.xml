@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lydia E Kavraki | Nicole Mitchell</title>
+    <link>https://nicolemitchell.github.io/authors/lydia-e-kavraki/</link>
+      <atom:link href="https://nicolemitchell.github.io/authors/lydia-e-kavraki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lydia E Kavraki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nicolemitchell.github.io/img/icon-192.png</url>
+      <title>Lydia E Kavraki</title>
+      <link>https://nicolemitchell.github.io/authors/lydia-e-kavraki/</link>
+    </image>
+    
+    <item>
+      <title>Applying Graph Convolutional Neural Networks for Drug Metabolism Prediction</title>
+      <link>https://nicolemitchell.github.io/publication/keckrdsci-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/publication/keckrdsci-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using parallelized incremental meta-docking can solve the conformational sampling issue when docking large ligands to proteins</title>
+      <link>https://nicolemitchell.github.io/publication/devaurs-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/publication/devaurs-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating DINC 2.0: An Improved Version of an Incremental Docking Protocol for Large Ligands</title>
+      <link>https://nicolemitchell.github.io/publication/rurs-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/publication/rurs-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

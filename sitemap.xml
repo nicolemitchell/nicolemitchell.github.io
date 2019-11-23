@@ -3,11 +3,132 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nicolemitchell.github.io/authors/admin/</loc>
+    <loc>https://nicolemitchell.github.io/publication_types/0/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/publication/keckrdsci-2019/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nicolemitchell.github.io/authors/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/tags/drug-metabolism/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/authors/eleni-litsa/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/tags/graph-nets/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/authors/lydia-e-kavraki/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/authors/nicole-mitchell/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/publication_types/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/publication/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/tags/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/publication_types/2/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/authors/didier-devaurs/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/authors/dinler-a-antunes/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/authors/gregory-lizee/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/authors/mark-moll/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/tags/proteins-and-drugs/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/authors/sarah-hall-swan/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/publication/devaurs-2019/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/tags/image-segmentation/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/authors/lucy-fox/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/publication/statml-2019/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/tags/satellite-images/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/publication/rurs-2018/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolemitchell.github.io/authors/admin/</loc>
   </url>
   
   <url>
@@ -15,27 +136,11 @@
   </url>
   
   <url>
-    <loc>https://nicolemitchell.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://nicolemitchell.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>https://nicolemitchell.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicolemitchell.github.io/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://nicolemitchell.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nicolemitchell.github.io/tags/</loc>
   </url>
   
 </urlset>

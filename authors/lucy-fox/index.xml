@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucy Fox | Nicole Mitchell</title>
+    <link>https://nicolemitchell.github.io/authors/lucy-fox/</link>
+      <atom:link href="https://nicolemitchell.github.io/authors/lucy-fox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lucy Fox</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nicolemitchell.github.io/img/icon-192.png</url>
+      <title>Lucy Fox</title>
+      <link>https://nicolemitchell.github.io/authors/lucy-fox/</link>
+    </image>
+    
+    <item>
+      <title>Road Identification in Satellite Images Using Image Segmentation Approaches</title>
+      <link>https://nicolemitchell.github.io/publication/statml-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/publication/statml-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

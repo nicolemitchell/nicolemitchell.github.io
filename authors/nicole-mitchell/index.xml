@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicole Mitchell</title>
+    <link>https://nicolemitchell.github.io/authors/nicole-mitchell/</link>
+      <atom:link href="https://nicolemitchell.github.io/authors/nicole-mitchell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicole Mitchell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nicolemitchell.github.io/img/icon-192.png</url>
+      <title>Nicole Mitchell</title>
+      <link>https://nicolemitchell.github.io/authors/nicole-mitchell/</link>
+    </image>
+    
+    <item>
+      <title>Applying Graph Convolutional Neural Networks for Drug Metabolism Prediction</title>
+      <link>https://nicolemitchell.github.io/publication/keckrdsci-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/publication/keckrdsci-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using parallelized incremental meta-docking can solve the conformational sampling issue when docking large ligands to proteins</title>
+      <link>https://nicolemitchell.github.io/publication/devaurs-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/publication/devaurs-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road Identification in Satellite Images Using Image Segmentation Approaches</title>
+      <link>https://nicolemitchell.github.io/publication/statml-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/publication/statml-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating DINC 2.0: An Improved Version of an Incremental Docking Protocol for Large Ligands</title>
+      <link>https://nicolemitchell.github.io/publication/rurs-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/publication/rurs-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

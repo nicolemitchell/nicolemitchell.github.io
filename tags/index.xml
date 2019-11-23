@@ -1,14 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Nicole Mitchell</title>
+    <title>Tags | Nicole Mitchell</title>
     <link>https://nicolemitchell.github.io/tags/</link>
-    <description>Recent content in Tags on Nicole Mitchell</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+      <atom:link href="https://nicolemitchell.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nicolemitchell.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://nicolemitchell.github.io/tags/</link>
+    </image>
     
-	<atom:link href="https://nicolemitchell.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>drug metabolism</title>
+      <link>https://nicolemitchell.github.io/tags/drug-metabolism/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/tags/drug-metabolism/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>graph nets</title>
+      <link>https://nicolemitchell.github.io/tags/graph-nets/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/tags/graph-nets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proteins and drugs</title>
+      <link>https://nicolemitchell.github.io/tags/proteins-and-drugs/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/tags/proteins-and-drugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image segmentation</title>
+      <link>https://nicolemitchell.github.io/tags/image-segmentation/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/tags/image-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>satellite images</title>
+      <link>https://nicolemitchell.github.io/tags/satellite-images/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/tags/satellite-images/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
