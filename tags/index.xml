@@ -5,7 +5,7 @@
     <link>https://nicolemitchell.github.io/tags/</link>
       <atom:link href="https://nicolemitchell.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nicolemitchell.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>compression</title>
+      <link>https://nicolemitchell.github.io/tags/compression/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/tags/compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>federated learning</title>
+      <link>https://nicolemitchell.github.io/tags/federated-learning/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/tags/federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information theory</title>
+      <link>https://nicolemitchell.github.io/tags/information-theory/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/tags/information-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>drug metabolism</title>
       <link>https://nicolemitchell.github.io/tags/drug-metabolism/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://nicolemitchell.github.io/tags/drug-metabolism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph neural networks</title>
+      <link>https://nicolemitchell.github.io/tags/graph-neural-networks/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/tags/graph-neural-networks/</guid>
       <description></description>
     </item>
     

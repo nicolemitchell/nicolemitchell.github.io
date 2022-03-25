@@ -5,12 +5,28 @@
     <link>https://nicolemitchell.github.io/authors/nicole-mitchell/</link>
       <atom:link href="https://nicolemitchell.github.io/authors/nicole-mitchell/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicole Mitchell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nicolemitchell.github.io/img/icon-192.png</url>
       <title>Nicole Mitchell</title>
       <link>https://nicolemitchell.github.io/authors/nicole-mitchell/</link>
     </image>
+    
+    <item>
+      <title>Optimizing the Communication-Accuracy Trade-off in Federated Learning with Rate-Distortion Theory</title>
+      <link>https://nicolemitchell.github.io/arxiv.org/abs/2201.02664</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/arxiv.org/abs/2201.02664</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning-Based Prediction of Sites of Metabolism in Drugs: Exploring Feature Extraction Methods on Molecular Graphs</title>
+      <link>https://nicolemitchell.github.io/hdl.handle.net/1911/108430</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/hdl.handle.net/1911/108430</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Applying Graph Convolutional Neural Networks for Drug Metabolism Prediction</title>

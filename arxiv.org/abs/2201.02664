@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="AI Resident">
+  <meta name="description" content="A significant bottleneck in federated learning is the network communication cost of sending model updates from client devices to the central server. We propose a method to reduce this cost. Our method encodes quantized updates with an appropriate universal code, taking into account their empirical distribution. Because quantization introduces error, we select quantization levels by optimizing for the desired trade-off in average total bitrate and gradient distortion. We demonstrate empirically that in spite of the non-i.i.d. nature of federated learning, the rate–distortion frontier is consistent across datasets, optimizers, clients and training rounds, and within each setting, distortion reliably predicts model performance. This allows for a remarkably simple compression scheme that is near-optimal in many use cases, and outperforms TOP-K, DRIVE, 3LC and QSGD on the Stack Overflow next-word prediction benchmark.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://nicolemitchell.github.io/publication/">
+  <link rel="alternate" hreflang="en-us" href="https://nicolemitchell.github.io/arxiv.org/abs/2201.02664">
 
   
 
@@ -95,14 +95,12 @@
 
 
   
-  <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Nicole Mitchell">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://nicolemitchell.github.io/publication/">
+  <link rel="canonical" href="https://nicolemitchell.github.io/arxiv.org/abs/2201.02664">
 
   
   
@@ -115,18 +113,63 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Nicole Mitchell">
-  <meta property="og:url" content="https://nicolemitchell.github.io/publication/">
-  <meta property="og:title" content="Publications | Nicole Mitchell">
-  <meta property="og:description" content="AI Resident"><meta property="og:image" content="https://nicolemitchell.github.io/img/icon-192.png">
+  <meta property="og:url" content="https://nicolemitchell.github.io/arxiv.org/abs/2201.02664">
+  <meta property="og:title" content="Optimizing the Communication-Accuracy Trade-off in Federated Learning with Rate-Distortion Theory | Nicole Mitchell">
+  <meta property="og:description" content="A significant bottleneck in federated learning is the network communication cost of sending model updates from client devices to the central server. We propose a method to reduce this cost. Our method encodes quantized updates with an appropriate universal code, taking into account their empirical distribution. Because quantization introduces error, we select quantization levels by optimizing for the desired trade-off in average total bitrate and gradient distortion. We demonstrate empirically that in spite of the non-i.i.d. nature of federated learning, the rate–distortion frontier is consistent across datasets, optimizers, clients and training rounds, and within each setting, distortion reliably predicts model performance. This allows for a remarkably simple compression scheme that is near-optimal in many use cases, and outperforms TOP-K, DRIVE, 3LC and QSGD on the Stack Overflow next-word prediction benchmark."><meta property="og:image" content="https://nicolemitchell.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://nicolemitchell.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-01-07T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2021-01-07T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2021-01-07T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://nicolemitchell.github.io/arxiv.org/abs/2201.02664"
+  },
+  "headline": "Optimizing the Communication-Accuracy Trade-off in Federated Learning with Rate-Distortion Theory",
+  
+  "datePublished": "2021-01-07T00:00:00Z",
+  "dateModified": "2021-01-07T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Nicole Mitchell"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Nicole Mitchell",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://nicolemitchell.github.io/img/icon-512.png"
+    }
+  },
+  "description": "A significant bottleneck in federated learning is the network communication cost of sending model updates from client devices to the central server. We propose a method to reduce this cost. Our method encodes quantized updates with an appropriate universal code, taking into account their empirical distribution. Because quantization introduces error, we select quantization levels by optimizing for the desired trade-off in average total bitrate and gradient distortion. We demonstrate empirically that in spite of the non-i.i.d. nature of federated learning, the rate–distortion frontier is consistent across datasets, optimizers, clients and training rounds, and within each setting, distortion reliably predicts model performance. This allows for a remarkably simple compression scheme that is near-optimal in many use cases, and outperforms TOP-K, DRIVE, 3LC and QSGD on the Stack Overflow next-word prediction benchmark."
+}
+</script>
+
+  
 
   
 
@@ -134,10 +177,13 @@
   
 
 
+  
 
 
 
-  <title>Publications | Nicole Mitchell</title>
+
+
+  <title>Optimizing the Communication-Accuracy Trade-off in Federated Learning with Rate-Distortion Theory | Nicole Mitchell</title>
 
 </head>
 
@@ -362,126 +408,42 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+  
+
   
   
+  
+<div class="article-container pt-3">
+  <h1>Optimizing the Communication-Accuracy Trade-off in Federated Learning with Rate-Distortion Theory</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1>Publications</h1>
-
-  
-
-  
-</div>
 
 
-
-<div class="universal-wrapper">
-  <div class="row">
-    <div class="col-lg-12">
-
-      
-
-      
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-        
-        
-      
-
-      <div class="form-row mb-4">
-        <div class="col-auto">
-          <input type="search" class="filter-search" placeholder="Search..." autocapitalize="off"
-          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
-        </div>
-        <div class="col-auto">
-          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
-            <option value="*">Type</option>
-            
-            
-            <option value=".pubtype-0">
-              Uncategorized
-            </option>
-            
-            <option value=".pubtype-2">
-              Journal article
-            </option>
-            
-          </select>
-        </div>
-        <div class="col-auto">
-          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
-            <option value="*">Date</option>
-            
-            
-            
-            <option value=".year-2021">
-              2021
-            </option>
-            
-            <option value=".year-2020">
-              2020
-            </option>
-            
-            <option value=".year-2019">
-              2019
-            </option>
-            
-            <option value=".year-2018">
-              2018
-            </option>
-            
-            
-          </select>
-        </div>
-      </div>
-
-      <div id="container-publications">
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2021">
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+<div class="article-metadata">
 
   
   
-
-  <span class="article-metadata li-cite-author">
+  
+  
+  <div>
     
 
 
@@ -489,27 +451,67 @@
   
   <span><a href="/authors/nicole-mitchell/">Nicole Mitchell</a></span>, <span><a href="/authors/johannes-balle/">Johannes Ball{&lsquo;{e}}</a></span>, <span><a href="/authors/zachary-charles/">Zachary Charles</a></span>, <span><a href="/authors/jakub-kone-cny/">Jakub Kone{{c}}n{&lsquo;y}</a></span>
 
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2021
   </span>
-  (2021).
-  <a href="/arxiv.org/abs/2201.02664">Optimizing the Communication-Accuracy Trade-off in Federated Learning with Rate-Distortion Theory</a>.
-  <em>arXiv</em>.
   
-  <p>
-
-
-
-
-
-
-
 
   
 
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
 
 
 
 
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
         data-filename="/arxiv.org/abs/cite.bib">
   Cite
 </button>
@@ -527,368 +529,216 @@
 
 
 
-</p>
 
-  
+</div>
+
+
   
 </div>
 
-          
-        </div>
 
-        
 
-        
-          
-        
+  <div class="article-container">
 
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2020">
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">A significant bottleneck in federated learning is the network communication cost of sending model updates from client devices to the central server. We propose a method to reduce this cost. Our method encodes quantized updates with an appropriate universal code, taking into account their empirical distribution. Because quantization introduces error, we select quantization levels by optimizing for the desired trade-off in average total bitrate and gradient distortion. We demonstrate empirically that in spite of the non-i.i.d. nature of federated learning, the rate–distortion frontier is consistent across datasets, optimizers, clients and training rounds, and within each setting, distortion reliably predicts model performance. This allows for a remarkably simple compression scheme that is near-optimal in many use cases, and outperforms TOP-K, DRIVE, 3LC and QSGD on the Stack Overflow next-word prediction benchmark.</p>
     
 
-
-
-  
-  <span><a href="/authors/nicole-mitchell/">Nicole Mitchell</a></span>
-
-  </span>
-  (2020).
-  <a href="/hdl.handle.net/1911/108430">Machine Learning-Based Prediction of Sites of Metabolism in Drugs: Exploring Feature Extraction Methods on Molecular Graphs</a>.
-  <em>Master’s Thesis, Rice University</em>.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/hdl.handle.net/1911/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
-  
-  
-</div>
-
-          
-        </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-0 year-2019">
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
     
-
-
-
-  
-  <span><a href="/authors/eleni-litsa/">Eleni Litsa</a></span>, <span><a href="/authors/nicole-mitchell/">Nicole Mitchell</a></span>, <span><a href="/authors/lydia-e-kavraki/">Lydia E Kavraki</a></span>
-
-  </span>
-  (2019).
-  <a href="/publication/keckrdsci-2019/">Applying Graph Convolutional Neural Networks for Drug Metabolism Prediction</a>.
-  <em>29th Annual Keck Research Conference, Rice Data Science Conference</em>.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/keckrdsci-2019/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
-  
-  
-</div>
-
-          
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
         </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2019">
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-
-
-  
-  <span><a href="/authors/didier-devaurs/">Didier Devaurs</a></span>, <span><a href="/authors/dinler-a-antunes/">Dinler A Antunes</a></span>, <span><a href="/authors/sarah-hall-swan/">Sarah Hall-Swan</a></span>, <span><a href="/authors/nicole-mitchell/">Nicole Mitchell</a></span>, <span><a href="/authors/mark-moll/">Mark Moll</a></span>, <span><a href="/authors/gregory-lizee/">Gregory Lizée</a></span>, <span><a href="/authors/lydia-e-kavraki/">Lydia E Kavraki</a></span>
-
-  </span>
-  (2019).
-  <a href="/publication/devaurs-2019/">Using parallelized incremental meta-docking can solve the conformational sampling issue when docking large ligands to proteins</a>.
-  <em>BMC Molecular and Cell Biology</em>.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/devaurs-2019/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/s12860-019-0218-z" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-</p>
-
-  
-  
-</div>
-
-          
-        </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-0 year-2019">
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-
-
-  
-  <span><a href="/authors/nicole-mitchell/">Nicole Mitchell</a></span>, <span><a href="/authors/lucy-fox/">Lucy Fox</a></span>
-
-  </span>
-  (2019).
-  <a href="/publication/statml-2019/">Road Identification in Satellite Images Using Image Segmentation Approaches</a>.
-  <em>Rice University Statistical Machine Learning Poster Session</em>.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/statml-2019/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
-  
-  
-</div>
-
-          
-        </div>
-
-        
-
-        
-          
-        
-
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-0 year-2018">
-          
-            <div class="pub-list-item" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-
-  
-  
-
-  <span class="article-metadata li-cite-author">
-    
-
-
-
-  
-  <span><a href="/authors/nicole-mitchell/">Nicole Mitchell</a></span>, <span><a href="/authors/didier-devaurs/">Didier Devaurs</a></span>, <span><a href="/authors/lydia-e-kavraki/">Lydia E Kavraki</a></span>
-
-  </span>
-  (2018).
-  <a href="/publication/rurs-2018/">Evaluating DINC 2.0: An Improved Version of an Incremental Docking Protocol for Large Ligands</a>.
-  <em>Rice Undergraduate Research Symposium</em>.
-  
-  <p>
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/rurs-2018/cite.bib">
-  Cite
-</button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
-  
-  
-</div>
-
-          
-        </div>
-
-        
       </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>arXiv</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/federated-learning/">federated learning</a>
+  
+  <a class="badge badge-light" href="/tags/compression/">compression</a>
+  
+  <a class="badge badge-light" href="/tags/information-theory/">information theory</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://nicolemitchell.github.io/arxiv.org/abs/2201.02664&amp;text=Optimizing%20the%20Communication-Accuracy%20Trade-off%20in%20Federated%20Learning%20with%20Rate-Distortion%20Theory" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://nicolemitchell.github.io/arxiv.org/abs/2201.02664&amp;t=Optimizing%20the%20Communication-Accuracy%20Trade-off%20in%20Federated%20Learning%20with%20Rate-Distortion%20Theory" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Optimizing%20the%20Communication-Accuracy%20Trade-off%20in%20Federated%20Learning%20with%20Rate-Distortion%20Theory&amp;body=https://nicolemitchell.github.io/arxiv.org/abs/2201.02664" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://nicolemitchell.github.io/arxiv.org/abs/2201.02664&amp;title=Optimizing%20the%20Communication-Accuracy%20Trade-off%20in%20Federated%20Learning%20with%20Rate-Distortion%20Theory" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Optimizing%20the%20Communication-Accuracy%20Trade-off%20in%20Federated%20Learning%20with%20Rate-Distortion%20Theory%20https://nicolemitchell.github.io/arxiv.org/abs/2201.02664" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://nicolemitchell.github.io/arxiv.org/abs/2201.02664&amp;title=Optimizing%20the%20Communication-Accuracy%20Trade-off%20in%20Federated%20Learning%20with%20Rate-Distortion%20Theory" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/nicole-mitchell/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
 
     </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
   </div>
 </div>
 

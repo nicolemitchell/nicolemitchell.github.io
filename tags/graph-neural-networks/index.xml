@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>drug metabolism | Nicole Mitchell</title>
-    <link>https://nicolemitchell.github.io/tags/drug-metabolism/</link>
-      <atom:link href="https://nicolemitchell.github.io/tags/drug-metabolism/index.xml" rel="self" type="application/rss+xml" />
-    <description>drug metabolism</description>
+    <title>graph neural networks | Nicole Mitchell</title>
+    <link>https://nicolemitchell.github.io/tags/graph-neural-networks/</link>
+      <atom:link href="https://nicolemitchell.github.io/tags/graph-neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>graph neural networks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nicolemitchell.github.io/img/icon-192.png</url>
-      <title>drug metabolism</title>
-      <link>https://nicolemitchell.github.io/tags/drug-metabolism/</link>
+      <title>graph neural networks</title>
+      <link>https://nicolemitchell.github.io/tags/graph-neural-networks/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://nicolemitchell.github.io/hdl.handle.net/1911/108430</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://nicolemitchell.github.io/hdl.handle.net/1911/108430</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Applying Graph Convolutional Neural Networks for Drug Metabolism Prediction</title>
-      <link>https://nicolemitchell.github.io/publication/keckrdsci-2019/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://nicolemitchell.github.io/publication/keckrdsci-2019/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jakub Kone{{c}}n{&#39;y} | Nicole Mitchell</title>
+    <link>https://nicolemitchell.github.io/authors/jakub-kone-cny/</link>
+      <atom:link href="https://nicolemitchell.github.io/authors/jakub-kone-cny/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jakub Kone{{c}}n{&#39;y}</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nicolemitchell.github.io/img/icon-192.png</url>
+      <title>Jakub Kone{{c}}n{&#39;y}</title>
+      <link>https://nicolemitchell.github.io/authors/jakub-kone-cny/</link>
+    </image>
+    
+    <item>
+      <title>Optimizing the Communication-Accuracy Trade-off in Federated Learning with Rate-Distortion Theory</title>
+      <link>https://nicolemitchell.github.io/arxiv.org/abs/2201.02664</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/arxiv.org/abs/2201.02664</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

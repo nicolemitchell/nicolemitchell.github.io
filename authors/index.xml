@@ -5,12 +5,44 @@
     <link>https://nicolemitchell.github.io/authors/</link>
       <atom:link href="https://nicolemitchell.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nicolemitchell.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://nicolemitchell.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Jakub Kone{{c}}n{&#39;y}</title>
+      <link>https://nicolemitchell.github.io/authors/jakub-kone-cny/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/jakub-kone-cny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Ball{&#39;{e}}</title>
+      <link>https://nicolemitchell.github.io/authors/johannes-balle/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/johannes-balle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole Mitchell</title>
+      <link>https://nicolemitchell.github.io/authors/nicole-mitchell/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/nicole-mitchell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zachary Charles</title>
+      <link>https://nicolemitchell.github.io/authors/zachary-charles/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/zachary-charles/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Eleni Litsa</title>
@@ -25,14 +57,6 @@
       <link>https://nicolemitchell.github.io/authors/lydia-e-kavraki/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://nicolemitchell.github.io/authors/lydia-e-kavraki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicole Mitchell</title>
-      <link>https://nicolemitchell.github.io/authors/nicole-mitchell/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://nicolemitchell.github.io/authors/nicole-mitchell/</guid>
       <description></description>
     </item>
     
@@ -93,7 +117,7 @@
 
 &lt;p&gt;Prior to the residency, I completed my Master of Science in Computer Science from Rice University, where I was advised by Dr. Lydia Kavraki. My master&amp;rsquo;s research in chemoinformatics applied graph theory, network science and machine learning techniques to model drugs and predict their metabolism, helping inform the safety and efficacy of medicines.&lt;/p&gt;
 
-&lt;p&gt;As my residency is coming to a close, I am now seeking opportunities for research positions. Broadly, I am excited about research that uses both theory and empirical tools to understand machine learning methods and design informed systems.&lt;/p&gt;
+&lt;p&gt;As my residency is coming to a close, I am now seeking opportunities for full-time research positions. Broadly, I am excited about research that uses both theory and empirical tools to design informed and efficient machine learning systems. I care about applications to health and the environment, and how my work fits in the socio-technical landscape.&lt;/p&gt;
 
 &lt;p&gt;Outside of research, I enjoy running along trails in the Marin Headlands and trying out new recipes in the kitchen.&lt;/p&gt;
 </description>
