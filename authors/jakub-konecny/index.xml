@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Johannes Ballé | Nicole Mitchell</title>
-    <link>https://nicolemitchell.github.io/authors/johannes-balle/</link>
-      <atom:link href="https://nicolemitchell.github.io/authors/johannes-balle/index.xml" rel="self" type="application/rss+xml" />
-    <description>Johannes Ballé</description>
+    <title>Jakub Konečný | Nicole Mitchell</title>
+    <link>https://nicolemitchell.github.io/authors/jakub-konecny/</link>
+      <atom:link href="https://nicolemitchell.github.io/authors/jakub-konecny/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jakub Konečný</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nicolemitchell.github.io/img/icon-192.png</url>
-      <title>Johannes Ballé</title>
-      <link>https://nicolemitchell.github.io/authors/johannes-balle/</link>
+      <title>Jakub Konečný</title>
+      <link>https://nicolemitchell.github.io/authors/jakub-konecny/</link>
     </image>
     
     <item>
@@ -25,14 +25,6 @@
       <link>https://nicolemitchell.github.io/publication/mitchell-2021/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://nicolemitchell.github.io/publication/mitchell-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimizing the Communication-Accuracy Trade-off in Federated Learning with Rate-Distortion Theory</title>
-      <link>https://nicolemitchell.github.io/arxiv.org/abs/2201.02664</link>
-      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nicolemitchell.github.io/arxiv.org/abs/2201.02664</guid>
       <description></description>
     </item>
     

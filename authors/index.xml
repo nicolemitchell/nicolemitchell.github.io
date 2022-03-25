@@ -5,12 +5,44 @@
     <link>https://nicolemitchell.github.io/authors/</link>
       <atom:link href="https://nicolemitchell.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nicolemitchell.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://nicolemitchell.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Jakub Konečný</title>
+      <link>https://nicolemitchell.github.io/authors/jakub-konecny/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/jakub-konecny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Ballé</title>
+      <link>https://nicolemitchell.github.io/authors/johannes-balle/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/johannes-balle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole Mitchell</title>
+      <link>https://nicolemitchell.github.io/authors/nicole-mitchell/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/nicole-mitchell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zachary Charles</title>
+      <link>https://nicolemitchell.github.io/authors/zachary-charles/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/zachary-charles/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jakub Kone{{c}}n{&#39;y}</title>
@@ -21,26 +53,10 @@
     </item>
     
     <item>
-      <title>Johannes Ball{&#39;{e}}</title>
-      <link>https://nicolemitchell.github.io/authors/johannes-balle/</link>
-      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nicolemitchell.github.io/authors/johannes-balle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicole Mitchell</title>
-      <link>https://nicolemitchell.github.io/authors/nicole-mitchell/</link>
-      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nicolemitchell.github.io/authors/nicole-mitchell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zachary Charles</title>
-      <link>https://nicolemitchell.github.io/authors/zachary-charles/</link>
-      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://nicolemitchell.github.io/authors/zachary-charles/</guid>
+      <title>Nicole Elyse Mitchell</title>
+      <link>https://nicolemitchell.github.io/authors/nicole-elyse-mitchell/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/authors/nicole-elyse-mitchell/</guid>
       <description></description>
     </item>
     

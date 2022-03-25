@@ -5,12 +5,28 @@
     <link>https://nicolemitchell.github.io/authors/zachary-charles/</link>
       <atom:link href="https://nicolemitchell.github.io/authors/zachary-charles/index.xml" rel="self" type="application/rss+xml" />
     <description>Zachary Charles</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nicolemitchell.github.io/img/icon-192.png</url>
       <title>Zachary Charles</title>
       <link>https://nicolemitchell.github.io/authors/zachary-charles/</link>
     </image>
+    
+    <item>
+      <title>Optimizing the Communication-Accuracy Trade-off in Federated Learning with Rate-Distortion Theory</title>
+      <link>https://nicolemitchell.github.io/publication/mitchell-2021-manual/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/publication/mitchell-2021-manual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing the Communication-Accuracy Trade-off in Federated Learning with Rate-Distortion Theory</title>
+      <link>https://nicolemitchell.github.io/publication/mitchell-2021/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/publication/mitchell-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimizing the Communication-Accuracy Trade-off in Federated Learning with Rate-Distortion Theory</title>

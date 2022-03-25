@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicole Elyse Mitchell | Nicole Mitchell</title>
+    <link>https://nicolemitchell.github.io/authors/nicole-elyse-mitchell/</link>
+      <atom:link href="https://nicolemitchell.github.io/authors/nicole-elyse-mitchell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicole Elyse Mitchell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nicolemitchell.github.io/img/icon-192.png</url>
+      <title>Nicole Elyse Mitchell</title>
+      <link>https://nicolemitchell.github.io/authors/nicole-elyse-mitchell/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning-Based Prediction of Sites of Metabolism in Drugs: Exploring Feature Extraction Methods on Molecular Graphs</title>
+      <link>https://nicolemitchell.github.io/publication/mitchell-2020-manual/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/publication/mitchell-2020-manual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning-Based Prediction of Sites of Metabolism in Drugs: Exploring Feature Extraction Methods on Molecular Graphs</title>
+      <link>https://nicolemitchell.github.io/publication/mitchell-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nicolemitchell.github.io/publication/mitchell-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
