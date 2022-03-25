@@ -5,20 +5,12 @@
     <link>https://nicolemitchell.github.io/tags/drug-metabolism/</link>
       <atom:link href="https://nicolemitchell.github.io/tags/drug-metabolism/index.xml" rel="self" type="application/rss+xml" />
     <description>drug metabolism</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nicolemitchell.github.io/img/icon-192.png</url>
       <title>drug metabolism</title>
       <link>https://nicolemitchell.github.io/tags/drug-metabolism/</link>
     </image>
-    
-    <item>
-      <title>Machine Learning-Based Prediction of Sites of Metabolism in Drugs: Exploring Feature Extraction Methods on Molecular Graphs</title>
-      <link>https://nicolemitchell.github.io/hdl.handle.net/1911/108430</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://nicolemitchell.github.io/hdl.handle.net/1911/108430</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Applying Graph Convolutional Neural Networks for Drug Metabolism Prediction</title>
